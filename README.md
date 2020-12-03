@@ -1,1 +1,3 @@
-# exodus
+# Exodus
+
+Welcome to Exodus.
